@@ -1,6 +1,6 @@
-alias mypublicip="curl http://ipecho.net/plain;
+alias mypublicip="curl http://ipecho.net/plain;echo"
 
-echo"alias tree="tree -a"
+alias tree="tree -a"
 
 alias ..="cd .."
 
